@@ -1,5 +1,5 @@
 {
-  ".": "2.12.0",
+  ".": "2.13.0",
   "packages/api-explorer": "0.9.41",
   "packages/code-editor": "0.1.26",
   "packages/extension-api-explorer": "22.20.0",
@@ -14,6 +14,6 @@
   "packages/sdk-codegen-utils": "21.0.11",
   "packages/sdk-node": "22.20.0",
   "packages/sdk-rtl": "21.4.0",
-  "packages/wholly-sheet": "0.5.37",
+  "packages/wholly-sheet": "0.5.38",
   "python": "22.20.0"
 }

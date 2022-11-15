@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.13.0](https://www.github.com/looker-open-source/sdk-codegen/compare/sdk-codegen-all-v2.12.0...sdk-codegen-all-v2.13.0) (2022-11-15)
+
+
+### Features
+
+* new WhollyArtifact package ([#1200](https://www.github.com/looker-open-source/sdk-codegen/issues/1200)) ([0d9d45d](https://www.github.com/looker-open-source/sdk-codegen/commit/0d9d45de07b461554739d847b7b312909228adf5))
+
 ## [2.12.0](https://www.github.com/looker-open-source/sdk-codegen/compare/sdk-codegen-all-v2.11.0...sdk-codegen-all-v2.12.0) (2022-11-10)
 
 

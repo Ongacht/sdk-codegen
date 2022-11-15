@@ -1,5 +1,14 @@
 # Changelog
 
+## [22.20.0](https://www.github.com/looker-open-source/sdk-codegen/compare/hackathon-v22.20.0...hackathon-v22.20.0) (2022-11-15)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @looker/wholly-sheet bumped from ^0.5.37 to ^0.5.38
+
 ## [22.20.0](https://www.github.com/looker-open-source/sdk-codegen/compare/hackathon-v22.18.0...hackathon-v22.20.0) (2022-11-10)
 
 

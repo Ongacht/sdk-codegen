@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.5.38](https://www.github.com/looker-open-source/sdk-codegen/compare/wholly-sheet-v0.5.37...wholly-sheet-v0.5.38) (2022-11-15)
+
+
+### Features
+
+* new WhollyArtifact package ([#1200](https://www.github.com/looker-open-source/sdk-codegen/issues/1200)) ([0d9d45d](https://www.github.com/looker-open-source/sdk-codegen/commit/0d9d45de07b461554739d847b7b312909228adf5))
+
 ### [0.5.37](https://www.github.com/looker-open-source/sdk-codegen/compare/wholly-sheet-v0.5.36...wholly-sheet-v0.5.37) (2022-11-10)
 
 
